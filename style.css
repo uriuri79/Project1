@@ -282,6 +282,19 @@ body {
     margin-top: 15px;
 }
 
+.footer-nav__link {
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-nav__link-item {
+    flex-grow: 1;
+}
+
 .footer-text {
     color: white;
     width: 494.77px;
